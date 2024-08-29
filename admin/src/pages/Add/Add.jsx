@@ -74,8 +74,7 @@ const Add = () => {
                         <p>Product category</p>
                         <select name='category' onChange={onChangeHandler} >
                             <option value="Indoor">Indoor</option>
-                            <option value="Suculent & Cacti">Suculent & Cacti</option>
-                            <option value="Herbs">Herbs</option>
+                            <option value="Succulent & Cacti">Succulent & Cacti</option>
                             <option value="Herbs">Herbs</option>
                             <option value="Flowering">Flowering</option>
                             <option value="Hanging">Hanging</option>
